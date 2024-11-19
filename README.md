@@ -2,7 +2,7 @@
 
 
 > [!WARNING]
-> No olvides hacer git pull antes de realizar cualquier cambio
+> No olvides hacer git pull antes de realizar cualquier cambio.
 
 
 > [!NOTE]
