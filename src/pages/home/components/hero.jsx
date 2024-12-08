@@ -7,7 +7,7 @@ export default function Hero() {
         className="absolute -z-10 h-full w-full"
       />
       <article className="w-full max-w-[1400px] space-y-7 text-white">
-        <h1 className="text-8xl font-medium">Everywhere in Quebec</h1>
+        <h1 className="lg:text-8xl text-[3.5rem] font-medium text-balance " >Everywhere in Quebec</h1>
         <p className="text-2xl font-light">
           Cleaning and protection of paving stones, bricks, wood and concrete
           throughout Quebec

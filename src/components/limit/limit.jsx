@@ -1,4 +1,4 @@
-import Header from "./header";
+import Header from "./Header/Header";
 
 export default function Limit({ children, className }) {
   return (
