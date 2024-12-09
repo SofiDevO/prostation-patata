@@ -19,7 +19,7 @@
       top: -11px;
       transform: translateX(100%);
       left: 0;
-      background: var(--color-background-header-menu);
+      background: rgba(0, 0, 0, 0.5);
       backdrop-filter: blur(22px);
       min-height: 100dvh;
       padding: 1rem 2rem;

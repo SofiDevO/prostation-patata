@@ -27,8 +27,6 @@ export default function Header() {
         className="text-white"
         anchorClassName="animation-anchors"
       />
-
-
       <HamburgerBtn
         classActive={isActive ? "is-active" : ""}
         onClick={toggleActive}
